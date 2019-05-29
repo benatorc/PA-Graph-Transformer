@@ -40,7 +40,7 @@ python train/train_prop.py -cuda \
 
 To run the local model, add the option:
 ```
--mask_neighs
+-mask_neigh
 ```
 
 To run the conv net model:
